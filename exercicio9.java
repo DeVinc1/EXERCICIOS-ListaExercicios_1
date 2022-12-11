@@ -18,7 +18,7 @@ public class exercicio9 {
         fahrenheit = tecladoSc.nextDouble();
 
         /* Manipulação matemática */
-        celsius = 5 * ((fahrenheit-32) / 9);
+        celsius = 5.0 * ((fahrenheit-32.0) / 9.0);
 
         System.out.printf(fahrenheit + "ºF é igual a " + celsius +"ºC");
 
