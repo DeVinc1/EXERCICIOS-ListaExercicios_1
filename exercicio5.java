@@ -1,3 +1,5 @@
+/* Faça um Programa que converta metros para centímetros. */
+
 import java.util.Scanner;
 
 public class exercicio5 {
