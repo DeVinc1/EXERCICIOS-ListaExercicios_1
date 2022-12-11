@@ -1,3 +1,4 @@
+/* Faça um Programa que peça dois números e imprima a soma. */
 import java.util.Scanner;
 
 public class exercicio3 {
